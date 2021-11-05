@@ -1,4 +1,4 @@
-# state_management_application_flutter
+# State management + MultiProvider
 
 A new Flutter project.
 
