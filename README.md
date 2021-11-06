@@ -17,10 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 # FIFA
 
-**The best football players in the Europe**.
+**Footballers of European grandees**.
 
 * Positions on the football field;
-* rating.
+* rating;
+* physical characteristics.
 
 ![image](https://user-images.githubusercontent.com/57871748/140605979-10b7ecb3-8f9b-4599-8d4e-59a0ac82e0c4.png)
 ![image](https://user-images.githubusercontent.com/57871748/140606046-87ecf01f-ff2c-4070-96bf-fea8e592d14e.png)
