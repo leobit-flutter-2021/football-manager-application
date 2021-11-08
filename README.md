@@ -17,9 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 # Developers
 
-@Nazarko12
+@ Nazarko12
 
-@Carshes
+@ Carshes
 
 # FIFA as a motivation for this job
 
