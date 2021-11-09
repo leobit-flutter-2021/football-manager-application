@@ -44,7 +44,7 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://user-images.githubusercontent.com/57871748/140504994-db7ad6b1-9164-4e9c-827a-7a07dc5e2cd1.png)
 ![image](https://user-images.githubusercontent.com/57871748/140505073-fe005ba5-8662-43d8-8c6e-13694a39b49c.png)
 
-# State 
+# State this application
 
 **Screenshots**:
 
