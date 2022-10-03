@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Developers
 
-**@ Nazarko12**
+**@ Nazarii**
 
 **@ Carshes**
 
